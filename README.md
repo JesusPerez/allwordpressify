@@ -1,1 +1,1 @@
-# allwordpressify
+wordpressify all in one
